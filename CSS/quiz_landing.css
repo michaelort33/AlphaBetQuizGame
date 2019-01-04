@@ -1,0 +1,26 @@
+body{    
+}
+h1{
+  font-weight: 300;
+  padding: 10px;
+  font-size: 20px;
+  background-color: #444;
+  color: #fff;
+  text-align: center;
+}
+#container{
+    display: table;
+    text-align: left;
+    font-size: 1.5em;
+    line-height: 125%;
+    margin: auto;
+    width: 75%;
+    border: 3px;
+    padding: 10px;
+    max-width: 540px;
+}
+#button{
+  position: relative;
+  margin: auto;
+  text-align: center;
+}
